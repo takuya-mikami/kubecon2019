@@ -1,0 +1,1 @@
+{"jobID":"1cffdcd8-f672-9702-7924-33812c9af54d","spec":{"type":"policy","cause":{"Message":"","User":"Takuya Mikami \u003ctakuya.mikami@zozo.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
